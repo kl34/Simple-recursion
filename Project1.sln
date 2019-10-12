@@ -76,4 +76,23 @@ int main()
 
 }
 
+An example is given below :
+
+*//Input:
+3 2^(3) 2^(3)
+
+Output:
+84
+84
+842
+842
+842
+842
+8421
+8421
+8421
+8421
+*//
+
+
 
